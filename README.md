@@ -1,3 +1,6 @@
+# Info
+Small React app that uses the youtube API to load and play videos based on a search term.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
